@@ -10,4 +10,4 @@ python figtex.py -h
 ```
 
 # Requirements
-platex and dvipng is needed.
+platex and dvipng are needed.
